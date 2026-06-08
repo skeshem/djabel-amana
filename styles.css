@@ -146,7 +146,7 @@ img {
 .hero-media {
   background:
     linear-gradient(90deg, rgba(16, 41, 29, 0.7), rgba(16, 41, 29, 0.18)),
-    url("./assets/real/export-europe-cover.jpg") center 32% / cover;
+    url("real/export-europe-cover.jpg") center 32% / cover;
   transform: scale(1.02);
 }
 
@@ -395,7 +395,7 @@ p {
   color: var(--white);
   background:
     linear-gradient(90deg, rgba(22, 75, 53, 0.96), rgba(22, 75, 53, 0.72)),
-    url("./assets/real/watermelon-export-cover.jpg") center 38% / cover;
+    url("real/watermelon-export-cover.jpg") center 38% / cover;
 }
 
 .export-band p {
