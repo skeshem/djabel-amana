@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="Huile d'olive en vrac et au detail">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#edf3e2"/>
+      <stop offset="1" stop-color="#f6ead0"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e7d17a"/>
+      <stop offset=".55" stop-color="#a7a744"/>
+      <stop offset="1" stop-color="#5d6c22"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  <circle cx="140" cy="135" r="120" fill="#164b35" opacity=".12"/>
+  <circle cx="740" cy="560" r="150" fill="#c68a2d" opacity=".18"/>
+  <g transform="translate(220 92)">
+    <path d="M276 12h112v94c0 38 72 74 72 176v252c0 48-39 87-87 87H291c-48 0-87-39-87-87V282c0-102 72-138 72-176z" fill="#164b35" opacity=".16"/>
+    <path d="M288 20h88v90c0 42 68 76 68 172v246c0 41-33 74-74 74h-76c-41 0-74-33-74-74V282c0-96 68-130 68-172z" fill="url(#glass)"/>
+    <rect x="282" y="0" width="100" height="52" rx="14" fill="#164b35"/>
+    <rect x="250" y="305" width="164" height="158" rx="8" fill="#fffdf7" opacity=".9"/>
+    <text x="332" y="362" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#164b35">OLIVE</text>
+    <text x="332" y="404" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#c68a2d">OIL</text>
+    <path d="M260 250c54-25 103-25 148 0" fill="none" stroke="#f8f5ec" stroke-width="10" opacity=".45"/>
+    <rect x="304" y="68" width="56" height="210" rx="28" fill="#fffdf7" opacity=".22"/>
+  </g>
+  <g transform="translate(96 132)">
+    <path d="M218 122c-88-12-158 17-210 86 89 19 160-6 215-74 7-8 6-11-5-12z" fill="#437a4d"/>
+    <path d="M8 208c75-31 143-56 210-86" fill="none" stroke="#f8f5ec" stroke-width="7" opacity=".65"/>
+    <circle cx="230" cy="218" r="34" fill="#293e1d"/>
+    <circle cx="296" cy="185" r="30" fill="#6d7d2c"/>
+    <circle cx="286" cy="260" r="38" fill="#8c9137"/>
+  </g>
+  <g transform="translate(598 160)">
+    <path d="M42 58c78-29 146-21 204 26-73 37-143 33-211-12-10-7-7-11 7-14z" fill="#5c914f"/>
+    <path d="M35 72c73 0 138 4 211 12" fill="none" stroke="#f8f5ec" stroke-width="7" opacity=".55"/>
+    <circle cx="80" cy="206" r="35" fill="#293e1d"/>
+    <circle cx="145" cy="242" r="31" fill="#7e8431"/>
+    <circle cx="190" cy="180" r="38" fill="#6d7d2c"/>
+  </g>
+</svg>

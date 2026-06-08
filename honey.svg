@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="Miel et specialites">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4efd7"/>
+      <stop offset="1" stop-color="#f4c879"/>
+    </linearGradient>
+    <linearGradient id="honey" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd262"/>
+      <stop offset=".6" stop-color="#c98723"/>
+      <stop offset="1" stop-color="#845119"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  <circle cx="170" cy="140" r="95" fill="#164b35" opacity=".12"/>
+  <circle cx="735" cy="125" r="120" fill="#c68a2d" opacity=".2"/>
+  <g transform="translate(232 110)">
+    <rect x="86" y="118" width="258" height="390" rx="54" fill="#164b35" opacity=".16"/>
+    <rect x="106" y="100" width="218" height="392" rx="50" fill="url(#honey)"/>
+    <rect x="132" y="0" width="166" height="105" rx="22" fill="#164b35"/>
+    <rect x="116" y="208" width="198" height="122" rx="8" fill="#fffdf7" opacity=".92"/>
+    <text x="215" y="263" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="800" fill="#164b35">MIEL</text>
+    <text x="215" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#c68a2d">ALGERIE</text>
+    <path d="M130 160c58-24 112-24 170 0" fill="none" stroke="#fffdf7" stroke-width="10" opacity=".35"/>
+  </g>
+  <g transform="translate(540 215)" fill="#c68a2d" stroke="#fffdf7" stroke-width="7" opacity=".9">
+    <path d="M0 50 30 0h60l30 50-30 50H30z"/>
+    <path d="M122 50 152 0h60l30 50-30 50h-60z"/>
+    <path d="M61 153 91 103h60l30 50-30 50H91z"/>
+    <path d="M183 153 213 103h60l30 50-30 50h-60z"/>
+  </g>
+  <path d="M602 112c47 65 107 82 180 53-45-64-105-83-180-53z" fill="#437a4d"/>
+  <path d="M602 112c58 17 118 35 180 53" fill="none" stroke="#fffdf7" stroke-width="8" opacity=".55"/>
+</svg>

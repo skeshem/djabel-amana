@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="Dattes Deglet Nour">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e9f1da"/>
+      <stop offset="1" stop-color="#f6d8a8"/>
+    </linearGradient>
+    <linearGradient id="date" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c77a2b"/>
+      <stop offset="1" stop-color="#5e2d18"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  <circle cx="744" cy="120" r="110" fill="#c68a2d" opacity=".22"/>
+  <circle cx="160" cy="600" r="170" fill="#164b35" opacity=".12"/>
+  <path d="M160 470c145-75 420-97 590 0v95H160z" fill="#164b35" opacity=".2"/>
+  <g transform="translate(130 80)">
+    <path d="M290 45c-92 55-156 135-190 242 108-32 193-95 250-190 19-32-27-71-60-52z" fill="#437a4d"/>
+    <path d="M290 45c-56 95-117 166-190 242" fill="none" stroke="#f8f5ec" stroke-width="8" stroke-linecap="round" opacity=".6"/>
+    <path d="M500 55c88 56 148 135 178 236-101-31-184-91-244-183-23-35 30-76 66-53z" fill="#5c914f"/>
+    <path d="M500 55c48 94 107 163 178 236" fill="none" stroke="#f8f5ec" stroke-width="8" stroke-linecap="round" opacity=".55"/>
+    <path d="M400 25c-24 134-18 246 18 333" fill="none" stroke="#164b35" stroke-width="18" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(205 255)">
+    <ellipse cx="170" cy="120" rx="74" ry="112" fill="url(#date)" transform="rotate(-24 170 120)"/>
+    <ellipse cx="300" cy="98" rx="74" ry="112" fill="url(#date)" transform="rotate(16 300 98)"/>
+    <ellipse cx="425" cy="135" rx="74" ry="112" fill="url(#date)" transform="rotate(-8 425 135)"/>
+    <ellipse cx="535" cy="102" rx="74" ry="112" fill="url(#date)" transform="rotate(24 535 102)"/>
+    <ellipse cx="242" cy="245" rx="82" ry="116" fill="url(#date)" transform="rotate(13 242 245)"/>
+    <ellipse cx="398" cy="260" rx="82" ry="116" fill="url(#date)" transform="rotate(-18 398 260)"/>
+    <ellipse cx="540" cy="248" rx="82" ry="116" fill="url(#date)" transform="rotate(8 540 248)"/>
+    <g fill="none" stroke="#f6d8a8" stroke-width="5" opacity=".45">
+      <path d="M145 63c40 41 55 92 43 154"/>
+      <path d="M290 13c24 62 30 117 17 167"/>
+      <path d="M414 51c38 52 46 102 25 151"/>
+      <path d="M512 33c44 45 56 92 35 143"/>
+      <path d="M236 169c36 50 43 103 22 159"/>
+      <path d="M405 177c26 49 28 104 5 166"/>
+      <path d="M529 169c42 52 49 103 20 154"/>
+    </g>
+  </g>
+</svg>

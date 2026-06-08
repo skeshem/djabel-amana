@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" role="img" aria-label="Djabel Amana Agro Exporter logo">
+  <defs>
+    <linearGradient id="leafGradient" x1="126" y1="115" x2="584" y2="610" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6fa35a"/>
+      <stop offset="0.5" stop-color="#164b35"/>
+      <stop offset="1" stop-color="#0d3426"/>
+    </linearGradient>
+    <linearGradient id="goldGradient" x1="180" y1="226" x2="552" y2="580" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e6bf62"/>
+      <stop offset="1" stop-color="#b77923"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="720" rx="96" fill="#fffdf7"/>
+  <rect x="38" y="38" width="644" height="644" rx="78" fill="none" stroke="#164b35" stroke-width="22"/>
+  <path d="M144 418 291 230c18-23 52-22 69 2l51 72 37-46c16-20 46-20 62 0l84 108" fill="none" stroke="url(#leafGradient)" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M150 470c88-48 176-72 264-72 70 0 132 13 186 39" fill="none" stroke="url(#goldGradient)" stroke-width="34" stroke-linecap="round"/>
+  <path d="M173 532c69-38 143-57 222-57 61 0 116 11 165 33" fill="none" stroke="#164b35" stroke-width="24" stroke-linecap="round" opacity=".9"/>
+  <path d="M492 159c-86-4-144 34-174 115 83 10 144-27 178-107 3-7 1-8-4-8z" fill="#6fa35a"/>
+  <path d="M318 274c45-43 96-82 174-115" fill="none" stroke="#fffdf7" stroke-width="14" stroke-linecap="round" opacity=".9"/>
+  <circle cx="235" cy="542" r="19" fill="#c68a2d"/>
+  <circle cx="288" cy="522" r="16" fill="#c68a2d"/>
+  <circle cx="345" cy="512" r="15" fill="#c68a2d"/>
+  <text x="360" y="628" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="900" letter-spacing="6" fill="#164b35">DJABEL AMANA</text>
+</svg>
